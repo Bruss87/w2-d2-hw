@@ -1,5 +1,5 @@
 class River
-  attr_reader :name, :plenty_of_fish
+  attr_reader :name
 
   def initialize (name)
     @name = name
